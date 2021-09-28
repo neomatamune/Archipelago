@@ -1,5 +1,52 @@
 [
   {
+    "gameTitle": "Archipelago",
+    "tutorials": [
+      {
+        "name": "Generating a Multidata",
+        "description": "A guide on how to select your YAML settings and generate a multidata ZIP file for hosting.",
+        "files": [
+          {
+            "language": "English",
+            "filename": "archipelago/generation_en.md",
+            "link": "archipelago/generation/en",
+            "authors": [
+              "Ijwu"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hosting Locally using a Multidata",
+        "description": "A guide on hosting a server on your machine using a multidata file.",
+        "files": [
+          {
+            "language": "English",
+            "filename": "archipelago/hosting_en.md",
+            "link": "archipelago/hosting/en",
+            "authors": [
+              "Ijwu"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "YAML Triggers",
+        "description": "A guide on how to use generation-time triggers to customize your YAML.",
+        "files": [
+          {
+            "language": "English",
+            "filename": "archipelago/triggers_en.md",
+            "link": "archipelago/triggers/en",
+            "authors": [
+              "Ijwu"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "gameTitle": "The Legend of Zelda: A Link to the Past",
     "tutorials": [
       {
